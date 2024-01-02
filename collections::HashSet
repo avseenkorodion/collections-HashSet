@@ -1,0 +1,5 @@
+use std::io;
+use std::collections::HashSet;
+
+fn main() {
+    let words = vec!["apple", "banana", "orange", "grape", "watermelon"];
